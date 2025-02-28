@@ -10,7 +10,9 @@ This project is a web-based spreadsheet application that allows users to create,
 The project is built using the following technologies:
 
 HTML (index.html): Provides the structure of the web application, including the toolbar, formula bar, and spreadsheet grid.
+
 CSS (style.css): Handles the styling of the spreadsheet, including UI elements like cells, toolbars, and dialogs.
+
 JavaScript (script.js): Implements core spreadsheet functionalities like cell selection, input handling, formula evaluation, and event listeners.
 
 Data Structures Used:
