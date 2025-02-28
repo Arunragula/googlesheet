@@ -6,7 +6,7 @@ This project is a web-based spreadsheet application that allows users to create,
 🔗 Live Demo: https://arunragula.github.io/googlesheet/
 ![image](https://github.com/user-attachments/assets/b30f887f-bac1-4b55-b8c4-8294322cfad4)
 
-Tech Stack
+#Tech Stack
 The project is built using the following technologies:
 
 HTML (index.html): Provides the structure of the web application, including the toolbar, formula bar, and spreadsheet grid.
