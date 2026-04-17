@@ -1,0 +1,13 @@
+name: Google sheet
+on:
+  push: branches['main']
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: check code
+        run: actions/checkout@v4
+      - name: pushing
+        run: echo "pushed"
+
